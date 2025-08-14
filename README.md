@@ -1,14 +1,24 @@
-# My-Journey-Notes
+# My Journey Notes
 
-Welcome to my personal tech journey!  
+Welcome to my personal tech journey! This repository documents my learning, projects, and experiments across multiple topics:
 
-“My personal tech journey: documenting learning, projects, and experiences in Cybersecurity, Web Dev, DevOps, and more.”
+## Topics
 
-This repository contains notes, projects, and experiments across multiple topics:
+1. **Cybersecurity**  
+   - Bug bounty, penetration testing, security labs  
+   - Folder: `1-Cybersecurity/`
 
-- **Cybersecurity:** Bug bounty, penetration testing, labs
-- **Web Development:** HTML, CSS, JavaScript, PHP, Laravel
-- **DevOps:** Docker, CI/CD, Kubernetes, scripts
-- **PHP Notes:** Projects and learning guides
+2. **Web Development**  
+   - HTML, CSS, JavaScript, PHP, Laravel, projects  
+   - Folder: `2-Web-Development/`
 
-This repo is continuously updated as I learn and explore new technologies.
+3. **DevOps**  
+   - Docker, CI/CD, Kubernetes, scripts, labs  
+   - Folder: `3-DevOps/`
+
+4. **PHP Notes**  
+   - PHP projects and learning guides  
+   - Folder: `4-PHP-Notes/`
+
+> Each topic folder contains subfolders for Notes, Projects, Labs, and Reports where applicable.  
+> Use Obsidian to navigate, link notes, and tag content.

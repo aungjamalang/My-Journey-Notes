@@ -50,3 +50,58 @@ Developer side:
     
 - Other developers can safely pull and work.
 
+
+### **3. Fork the repo**
+
+
+- You can fork the repo for private
+- You can fork the repo for public
+
+
+# Update Git Repository with Sample HTML File
+
+
+### 1. Copy the file from jump host to storage server
+
+From the **jump host**, copy the `index.html` file to the storage server under `/tmp/` (or directly to repo path):
+
+`scp /path/to/index.html storage_server:/tmp/`
+
+> Replace `storage_server` with the actual hostname or IP of your storage server.
+
+---
+
+### 2. Move file into the repository
+
+SSH into the **storage server**:
+
+`ssh storage_server`
+
+Move the file into the repo directory:
+
+`mv /tmp/index.html /usr/src/kodekloudrepos/official/ cd /usr/src/kodekloudrepos/official`
+
+---
+
+### 3. Git add and commit
+
+Make sure you are inside the repo:
+
+```
+git status 
+git add index.html 
+git commit -m "Add sample index.html file"
+```
+
+---
+
+### 4. Push to master branch
+
+Push changes to the remote repository:
+
+`git push origin master`
+
+---
+
+✅ Done! The `index.html` is now inside `/usr/src/kodekloudrepos/official`, committed, and pushed to `master`.
+

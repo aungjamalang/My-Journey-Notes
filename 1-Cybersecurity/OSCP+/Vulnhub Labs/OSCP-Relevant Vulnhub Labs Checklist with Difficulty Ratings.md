@@ -1,5 +1,7 @@
+# Vulnerable Boxes — Divided by OS
 
-## 🟢 Beginner (⭐1–2)
+## 🐧 Linux
+### 🟢 Beginner (⭐1–2)
 - [ ] ⭐1 [Kioptrix: Level 1 (#1)](https://www.vulnhub.com/entry/kioptrix-level-1-1,22/)
 - [ ] ⭐1 [Kioptrix: Level 1.1 (#2)](https://www.vulnhub.com/entry/kioptrix-level-11-2,23/)
 - [ ] ⭐1 [Kioptrix: Level 1.2 (#3)](https://www.vulnhub.com/entry/kioptrix-level-12-3,24/)
@@ -16,9 +18,7 @@
 - [ ] ⭐2 [Billy Madison](https://www.vulnhub.com/entry/billy-madison-11,161/)
 - [ ] ⭐2 [NullByte](https://www.vulnhub.com/entry/nullbyte-1,126/)
 
----
-
-## 🟡 Intermediate (⭐3)
+### 🟡 Intermediate (⭐3)
 - [ ] ⭐3 [DerpNStink 1](https://www.vulnhub.com/entry/derpnstink-1,221/)
 - [ ] ⭐3 [GoldenEye 1](https://www.vulnhub.com/entry/goldeneye-1,240/)
 - [ ] ⭐3 [Breach 1](https://www.vulnhub.com/entry/breach-1,152/)
@@ -36,11 +36,8 @@
 - [ ] ⭐3 [DevGuru 1](https://www.vulnhub.com/entry/devguru-1,620/)
 - [ ] ⭐3 [OZ](https://www.vulnhub.com/entry/oz-1,317/)
 
----
-
-## 🔴 Advanced (⭐4–5)
+### 🔴 Advanced (⭐4–5)
 - [ ] ⭐4 [Lord of the Root 1.0.1](https://www.vulnhub.com/entry/lord-of-the-root-101,129/)
-- [ ] ⭐4 [Metasploitable 3](https://github.com/rapid7/metasploitable3)
 - [ ] ⭐4 [BSides Vancouver 2018](https://www.vulnhub.com/entry/bsides-vancouver-2018-workshop,231/)
 - [ ] ⭐4 [DEFCON Toronto Galahad](https://www.vulnhub.com/entry/defcon-toronto-galahad,194/)
 - [ ] ⭐4 [Digitalworld.local (Bravery)](https://www.vulnhub.com/entry/digitalworldlocal-bravery,281/)
@@ -54,8 +51,10 @@
 - [ ] ⭐4 [Pinkys Palace v1](https://www.vulnhub.com/entry/pinkys-palace-v1,225/)
 - [ ] ⭐4 [Pinkys Palace v2](https://www.vulnhub.com/entry/pinkys-palace-v2,229/)
 - [ ] ⭐4 [Pinkys Palace v3](https://www.vulnhub.com/entry/pinkys-palace-v3,237/)
-- [ ] ⭐5 [Pinkys Palace v4](https://www.vulnhub.com/entry/pinkys-palace-v4,265/)  
+- [ ] ⭐5 [Pinkys Palace v4](https://www.vulnhub.com/entry/pinkys-palace-v4,265/)
 - [ ] ⭐5 [Prime 1](https://www.vulnhub.com/entry/prime-1,358/)
 - [ ] ⭐5 [Bob 1.0.1](https://www.vulnhub.com/entry/bob-101,226/)
 
----
+## 🪟 Windows
+### 🔴 Advanced (⭐4–5)
+- [ ] ⭐4 [Metasploitable 3](https://github.com/rapid7/metasploitable3)  ← includes a Windows VM (Windows Server)
